@@ -1,3 +1,3 @@
-# http-aggregator.etoro.com
+# hacked by dj naveen
 
-##subdomain takeover poc by dj naveen
+
